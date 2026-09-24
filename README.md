@@ -1,5 +1,5 @@
 ## 课程简介（Overview）：
-旨在通过图形化积木为 7-10 岁儿童建立计算思维”。
+A Scratch tutorial courseware aimed at building computational thinking for kids aged 7-10 using visual coding blocks.
 
 ## 课程大纲（Syllabus）：
 Lesson 1: ...
