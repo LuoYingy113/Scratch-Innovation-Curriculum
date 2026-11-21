@@ -4,5 +4,6 @@ A Scratch tutorial courseware aimed at building computational thinking for kids 
 ## Impact：
 
 
-## Graduation Photoes：
+## Learning Moments & Graduation：
 ![Session1](./assets/Graduation_1.jpg)
+![Session2](./assets/Course_photoes_02.jpg)
